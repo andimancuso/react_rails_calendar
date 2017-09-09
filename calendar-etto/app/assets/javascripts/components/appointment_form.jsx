@@ -25,5 +25,3 @@ var AppointmentForm = React.createClass({
         )
     }
 });
-
-// I HATE EVERYTHING RIGHT NOW
