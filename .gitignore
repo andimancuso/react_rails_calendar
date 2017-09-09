@@ -1,0 +1,7 @@
+
+.DS_Store
+*.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/react_rails_calendar.iml
+.idea/vcs.xml
